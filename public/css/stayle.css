@@ -1,0 +1,119 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: cursive;
+}
+/* start navbar section */
+nav .one{
+  margin-left: 550px;
+}
+nav h5{
+  letter-spacing: 3px;
+  
+}
+
+/* End navbar section */
+
+/*start header section*/
+header .img-2{
+  height: 100px;
+  width: 160px;
+}
+header h2{
+  color: #4431ed;
+}
+/*end header section*/
+
+/* start the-offer section */
+.the-offer{
+  margin-top: 100px;
+}
+.the-offer .text{
+  margin-top: 100px;
+}
+/* End the-offer section */
+
+/* start solve-problem section */
+.solve-problem{
+  height: 300px;
+  background-image:linear-gradient(#4431ed,#8720e4);
+  color: white;
+}
+.solve-problem img{
+  width: 100px;
+  height: 60px;
+  display: block;
+  margin: auto;
+}
+/* End solve-problem section */
+
+/* start content section */
+.content h3{
+  color: #183153;
+ margin-left: 50px;
+}
+.icon{
+ font-size: 40px;
+margin-left: 100px;
+}
+/* End content section */
+
+/* start clinic section */
+.clinic{
+  margin-top: 100px;
+}
+.clinic img{
+  width: 350px;
+  height: 350px;
+  margin-left: 100px;
+}
+.clinic h2 {
+  color: #183153;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 30px;
+}
+/* End clinic section */
+/* start Book section */
+.Book{
+  margin-top: 50px;
+  height: 300px;
+  background-image: url(../img/glass.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Book .text2{
+  margin-top: 90px;
+}
+/* end Book section */
+
+/* start Application section */
+.Application{
+ 
+  height: 220px;
+  background-image:linear-gradient(#4431ed,#8720e4);
+}
+.Application .img-3{
+  width: 170px;
+  height: 50px;
+
+}
+.Application .img-2{
+  height: 100px;
+  width: 170px;
+}
+.Application .img4{
+margin-left: 400px;
+margin-top: 20px;
+}
+/* end Application section */
+
+/* start footer section */
+.footer{
+  height: 80px;
+  background-color: black;
+}
+/* end footer section */
